@@ -28,6 +28,10 @@ var trabajos = [
     figure: "media/foto-07.jpg",
     title: "Mystica",
     about: "Taller Identidad: Bebida energética natural",
+}, {
+    figure: "media/foto-08.jpg",
+    title: "Alma",
+    about: "Taller Branding: Yoghurt Vegano",
 }
 ]
 // LUEGO CREAMOS PARTES DEL SITIO CON CADA DATO CONTENIDO EN LA VARIABLE
